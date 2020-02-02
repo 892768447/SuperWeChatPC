@@ -41,6 +41,10 @@
 
 1. [https://github.com/martona/mhook](https://github.com/martona/mhook)
 
+**交流**
+
+QQ group: [753894145](https://jq.qq.com/?_wv=1027&k=5ww6tlB)
+
 ### 声明
 
 **<label style="color:red">本项目仅供技术研究，请勿用于任何商业用途，请勿用于非法用途，如有任何人凭此做何非法事情，均于作者无关，特此声明。</label>**
